@@ -14,7 +14,7 @@ Then make sure that you have windscribe installed and account config. Now you ne
 ```
 name: connectVPNOnStartUp
 command: bash /home/sk/Startup Application/connectVPNOnStartUp/connectVPNOnStartUp.sh
-I have my repo on '/home/sk/Startup Application/'. Basically you just have to run 'connectVPNOnStartUp.sh' as a bash
+*I have my repo on '/home/sk/Startup Application/'. Basically you just have to run 'connectVPNOnStartUp.sh' as a bash*
 comment: connectVPNOnStartUp // you can just ignore this
 ```
 ![alt text](https://github.com/programworld999/connectVPNOnStartUp/blob/master/Screenshot%20from%202020-05-06%2023-59-29.png?raw=true)
